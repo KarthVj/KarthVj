@@ -83,7 +83,7 @@ Learning Platforms    │  TryHackMe (active) · SAL1 Prep · CompTIA Security+ 
 ### ✅ Microsoft — Student SOC Program Foundations
 **Microsoft · Completed September 5, 2025**
 
-<img src="./Microsoft__SOC_certification-1.png" width="700" alt="Microsoft SOC Program Foundations Certificate"/>
+<img src=".certifications/Microsoft__SOC_certification-1.png" width="700" alt="Microsoft SOC Program Foundations Certificate"/>
 
 *SOC Operations · Security Monitoring · Alert Triage · Incident Response · Microsoft Security Stack*
 
