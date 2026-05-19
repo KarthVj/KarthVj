@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthickvijay)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthick-vijay-saravanan/)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skarthickvijay@outlook.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/KarthVj)
 [![Profile Views](https://komarev.com/ghpvc/?username=KarthVj&color=00B4D8&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/KarthVj)
@@ -112,7 +112,7 @@ I'm actively looking for SOC analyst, security analyst, and junior cybersecurity
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthickvijay)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthick-vijay-saravanan/)
 [![Email](https://img.shields.io/badge/Email-skarthickvijay%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skarthickvijay@outlook.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-KarthVj-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/KarthVj)
 [![GitHub](https://img.shields.io/badge/GitHub-KarthVj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KarthVj)
