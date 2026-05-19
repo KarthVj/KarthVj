@@ -83,7 +83,7 @@ Learning Platforms    │  TryHackMe (active) · SAL1 Prep · CompTIA Security+ 
 ### ✅ Microsoft — Student SOC Program Foundations
 **Microsoft · Completed September 5, 2025**
 
-<img src="./certifications/Microsoft__SOC_certification-1.png" width="700" alt="Microsoft SOC Program Foundations Certificate"/>
+<a href="https://github.com/KarthVj/KarthVj/blob/main/certifications/Microsoft__SOC_certification-1.png" target="_blank"><img src="./certifications/Microsoft__SOC_certification-1.png" width="700" alt="Microsoft SOC Program Foundations Certificate"/></a>
 
 *SOC Operations · Security Monitoring · Alert Triage · Incident Response · Microsoft Security Stack*
 
@@ -92,7 +92,7 @@ Learning Platforms    │  TryHackMe (active) · SAL1 Prep · CompTIA Security+ 
 ### ✅ Fortinet NSE 1 — Network Security Associate
 **Fortinet · September 27, 2023 · Valid until September 27, 2025 · Verification: pU8HYGxPNm**
 
-<img src="./certifications/Fortinet_NSE_Certification-1.png" width="700" alt="Fortinet NSE 1 Certificate"/>
+<a href="https://github.com/KarthVj/KarthVj/blob/main/certifications/Fortinet_NSE_Certification-1.png" target="_blank"><img src="./certifications/Fortinet_NSE_Certification-1.png" width="700" alt="Fortinet NSE 1 Certificate"/></a>
 
 *Firewall Concepts · Threat Prevention · Network Security Controls · FortiGate Fundamentals*
 
@@ -101,7 +101,7 @@ Learning Platforms    │  TryHackMe (active) · SAL1 Prep · CompTIA Security+ 
 ### ✅ Fortinet — Information Security Awareness
 **Fortinet Training Institute · September 27, 2023**
 
-<img src="./certifications/NSE_awareness_cert-1.png" width="700" alt="Fortinet Information Security Awareness Certificate"/>
+<a href="https://github.com/KarthVj/KarthVj/blob/main/certifications/NSE_awareness_cert-1.png" target="_blank"><img src="./certifications/NSE_awareness_cert-1.png" width="700" alt="Fortinet Information Security Awareness Certificate"/></a>
 
 *Security Awareness · Threat Landscape · Social Engineering · Information Protection Practices*
 
@@ -110,7 +110,7 @@ Learning Platforms    │  TryHackMe (active) · SAL1 Prep · CompTIA Security+ 
 ### ✅ Ethical Hacking, Exploits & Protocol Pentesting
 **Prompt Infotech / NCSRC · December 9–18, 2024 · Reg ID: PITEEP105**
 
-<img src="./certifications/EEPP_Training_Certificate-1.png" width="700" alt="Ethical Hacking Certificate"/>
+<a href="https://github.com/KarthVj/KarthVj/blob/main/certifications/EEPP_Training_Certificate-1.png" target="_blank"><img src="./certifications/EEPP_Training_Certificate-1.png" width="700" alt="Ethical Hacking Certificate"/></a>
 
 *Vulnerability Assessment · Penetration Testing · Exploit Analysis · Protocol Security · Hands-on Lab Work*
 
@@ -119,7 +119,7 @@ Learning Platforms    │  TryHackMe (active) · SAL1 Prep · CompTIA Security+ 
 ### ✅ Cisco Networking Academy — Networking Basics
 **Cisco Networking Academy · December 10, 2024**
 
-<img src="./certifications/Cisco__Networking_Certification-1.png" width="700" alt="Cisco Networking Basics Certificate"/>
+<a href="https://github.com/KarthVj/KarthVj/blob/main/certifications/Cisco__Networking_Certification-1.png" target="_blank"><img src="./certifications/Cisco__Networking_Certification-1.png" width="700" alt="Cisco Networking Basics Certificate"/></a>
 
 *Network Communication · TCP/IP · IPv4 & IPv6 · Routing & Switching · Wireless Configuration · Troubleshooting*
 
@@ -128,7 +128,7 @@ Learning Platforms    │  TryHackMe (active) · SAL1 Prep · CompTIA Security+ 
 ### ✅ Splunk — The Cybersecurity Landscape (eLearning)
 **Splunk · November 27, 2023 · 3 Credit Hours**
 
-<img src="./certifications/Splunk_-_Certification-1.png" width="700" alt="Splunk Cybersecurity Landscape Certificate"/>
+<a href="https://github.com/KarthVj/KarthVj/blob/main/certifications/Splunk_-_Certification-1.png" target="_blank"><img src="./certifications/Splunk_-_Certification-1.png" width="700" alt="Splunk Cybersecurity Landscape Certificate"/></a>
 
 *Cybersecurity Fundamentals · Threat Landscape · Security Operations · Splunk Platform Overview*
 
@@ -137,7 +137,7 @@ Learning Platforms    │  TryHackMe (active) · SAL1 Prep · CompTIA Security+ 
 ### ✅ Cybersecurity Bootcamp — Wazuh, Wireshark, OpenVAS
 **ThinkCloudly · September 16–20, 2024**
 
-<img src="./certifications/Cybersecurity_Bootcamp-1.png" width="700" alt="Cybersecurity Bootcamp Certificate"/>
+<a href="https://github.com/KarthVj/KarthVj/blob/main/certifications/Cybersecurity_Bootcamp-1.png" target="_blank"><img src="./certifications/Cybersecurity_Bootcamp-1.png" width="700" alt="Cybersecurity Bootcamp Certificate"/></a>
 
 *Wazuh SIEM · Wireshark Packet Analysis · OpenVAS Vulnerability Scanning · Hands-on Security Lab*
 
@@ -146,7 +146,7 @@ Learning Platforms    │  TryHackMe (active) · SAL1 Prep · CompTIA Security+ 
 ### ✅ Mastercard — Cybersecurity Job Simulation (Forage)
 **Mastercard / Forage · November 23, 2023**
 
-<img src="./certifications/Mastercard_job_simulation_certificate-1.png" width="700" alt="Mastercard Cybersecurity Job Simulation Certificate"/>
+<a href="https://github.com/KarthVj/KarthVj/blob/main/certifications/Mastercard_job_simulation_certificate-1.png" target="_blank"><img src="./certifications/Mastercard_job_simulation_certificate-1.png" width="700" alt="Mastercard Cybersecurity Job Simulation Certificate"/></a>
 
 *Phishing Email Simulation Design · Phishing Campaign Analysis · Security Awareness Programs*
 
@@ -155,7 +155,7 @@ Learning Platforms    │  TryHackMe (active) · SAL1 Prep · CompTIA Security+ 
 ### ✅ Telstra — Cybersecurity Job Simulation (Forage)
 **Telstra / Forage · December 20, 2023**
 
-<img src="./certifications/Telstra_job_simulation_certificate-1.png" width="700" alt="Telstra Cybersecurity Job Simulation Certificate"/>
+<a href="https://github.com/KarthVj/KarthVj/blob/main/certifications/Telstra_job_simulation_certificate-1.png" target="_blank"><img src="./certifications/Telstra_job_simulation_certificate-1.png" width="700" alt="Telstra Cybersecurity Job Simulation Certificate"/></a>
 
 *Malware Attack Response · Attack Analysis · Technical Mitigation · Incident Postmortem*
 
